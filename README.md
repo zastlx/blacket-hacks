@@ -1,7 +1,7 @@
 # blacket-hacks
 the most safe and verified hacks for blacket.org
 
-owned by https://github.com/zastlx
+owned by [zastix](https://github.com/zastlx)
 
 # How do I use these?
 copy the hack you would like to use from the dedicated file then paste it in your javascript console
